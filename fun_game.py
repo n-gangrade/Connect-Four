@@ -1,15 +1,3 @@
-# By submitting this assignment, I agree to the following:
-#   "Aggies do not lie, cheat, or steal, or tolerate those who do."
-#   "I have not given or received any unauthorized aid on this assignment."
-#
-# Names:        Armaan Kazi
-#               Alexi Bowker
-#               Oscar Dominguez
-#               Navdha Gangrade
-# Section:      217
-# Assignment:   Lab 13
-# Date:         7 December 2022
-
 #Import commands####################################################
 import turtle
 import numpy as np
